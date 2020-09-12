@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\DELL\source\repos\Lab 4 new\Lab 4 new\Source.cpp(6,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\DELL\source\repos\Lab 4 new\Lab 4 new\Source.cpp(6,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Lab 4 new.vcxproj -> C:\Users\DELL\source\repos\Lab 4 new\Debug\Lab 4 new.exe
